@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FitPlanner</string>
+    <string name="title_activity_schedule">Schedule</string>
+    <string-array name="Days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string name="title_activity_meal_plan">MealPlan</string>
+    <string name="title_tool_list">Tools</string>
+    <string name="title_tool_detail">Tool Detail</string>
+
+</resources>
